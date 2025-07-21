@@ -1,0 +1,14 @@
+{
+  "transactionEndDateTimestamp": "2025-06-10 17:23:11.01516+01",
+  "invoiceNo": "FS BTA111/257318",
+  "payment": [
+    {
+      "paymentMethod": "96",
+      "paymentValue": "100.00",
+      "referenceNumber": null,
+      "tenderDescriptor": "196704",
+      "couponNumber": "2380278511001",
+      "eftDetails": {}
+    }
+  ]
+}
